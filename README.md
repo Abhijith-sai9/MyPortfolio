@@ -37,7 +37,7 @@ MyPortfolio/
 
 ## 🔗 Live Demo
 
-https://myportfolio-1729.netlify.app/
+https://myportfolio-pk7i.onrender.com
 
 ## 📌 GitHub Repository
 
